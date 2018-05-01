@@ -1,0 +1,11 @@
+--2018-04-30 19:41:53--  https://commons.wikimedia.org/w/index.php?search=black+box
+Resolving commons.wikimedia.org (commons.wikimedia.org)... 2620:0:861:ed1a::1, 208.80.154.224
+Connecting to commons.wikimedia.org (commons.wikimedia.org)|2620:0:861:ed1a::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.php?search=black+box’
+
+          index.php     [<=>               ]       0  --.-KB/s               index.php?search=bl     [ <=>              ]  42.60K  --.-KB/s    in 0.06s   
+
+2018-04-30 19:41:53 (685 KB/s) - ‘index.php?search=black+box’ saved [43624]
+
