@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Ethics Village</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="css/agency.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Ethics Village</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav text-uppercase ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="index.html">Home</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead">
+      <div class="container">
+        <div class="intro-text">
+          <div class="intro-lead-in">Ethics Village - Legal Workshop 2019</div>
+          <!--<div class="intro-heading text-uppercase"></div >--->
+	  <em>In The Hopes Of Fostering A Better Understanding Of The Ethical Questions We Face As A Community</em>  <br />
+        </div>
+      </div>
+    </header>
+    
+	<section id="sched">
+          <div class="container">
+            <div class="row">
+	      <div class="col-lg-12 text-center">
+		<h2 class="section-heading text-uppercase">Legal Workshop</h2>
+		<h3>Friday, August 9th</h3>
+		<p><h5>1:00 PM - 2:00 PM </h5></p>
+		<p><b>Law Professor Round Robin With Prof. Andrea Matwyshyn, Prof. Stephanie Pell & Prof. Margaret Hu (Washington and Lee Law)</b></p> <br />
+		  <p>Get an introduction to the hottest open legal issues in the law of security and where three cutting-edge thinkers see the law going</p>
+
+		  <img style='vertical-align:right; widith:200px; height:200px;' src="img/2019/andrea.jpg">
+		  <div style='vertical-align:right; dis
+		    Andrea M. Matwyshyn is a (tenured full) professor in the law school and engineering school at Penn State, the Associate Dean of Innovation at Penn State Law (University Park), and the founding director of the Penn State PILOT Lab (Policy Innovation Lab of Tomorrow), an interdisciplinary technology policy lab. She is also a faculty affiliate of the Center for Internet and Society at Stanford Law School and a Senior Fellow of the Cyber Statecraft Initiative at the Atlantic Council's Brent Scowcroft Center on International Security.  In 2014, she served as the Senior Policy Advisor/ Academic in Residence at the U.S. Federal Trade Commission. Prior to becoming an academic, she was a corporate attorney in private practice, focusing her work on technology transactions.</div>
+
+		<p><img src="img/2019/stephanie.png" style="width: 200px; height: 200px"> Stephanie Pell is an Assistant Professor and Cyber Ethics Fellow at West Point’s Army Cyber Institute (ACI), with joint appointments to the Department of English and Philosophy and the Department of Law, where she teaches courses in cyber ethics and constitutional and military law. Professor Pell is also an Affiliate Scholar at the Center for Internet and Society at Stanford Law School. Prior to joining the ACI faculty, Professor Pell served as Majority Counsel to the House Judiciary Committee under then Chairman John Conyers, serving as lead counsel on Electronic Communications Privacy Act (ECPA) reform and PATRIOT Act reauthorization during the 111th Congress. Professor Pell was also a federal prosecutor for over fourteen years, working as a Senior Counsel to the Deputy Attorney General, as a Counsel to the Assistant Attorney General of the National Security Division, and as an Assistant U.S. Attorney in the U.S. Attorney’s Office for the Southern District of Florida. She was a lead prosecutor in U.S. v. Jose Padilla (American Citizen detained as an enemy combatant prior to criminal indictment, trial, and conviction on various terrorism charges), for which she received the Attorney General’s Exceptional Service Award, and in U.S. v. Conor Claxton (IRA operatives who purchased weapons in South Florida and smuggled them into Belfast, Northern Ireland during peace process negotiations).</p>
+
+		<p><img src="img/2019/margaret.png" style="width: 200px; height: 200px"> Margaret Hu is an Associate Professor of Law at Washington and Lee University School of Law.  Her research interests include the intersection of immigration policy, national security, cybersurveillance, and civil rights.  Previously, she served as senior policy advisor for the White House Initiative on Asian Americans and Pacific Islanders, and also served as special policy counsel in the Office of Special Counsel for Immigration-Related Unfair Employment Practices (OSC), Civil Rights Division, U. S. Department of Justice, in Washington, D.C. As Special Policy Counsel, Hu managed a team of attorneys and investigators in the enforcement of the anti-discrimination provisions of the Immigration and Nationality Act (INA), and was responsible for federal immigration policy review and coordination for OSC.</p>
+
+
+		<p><h5>2:00 PM - 3:00 PM</h5><b>Coffee Talk With Anthony Ferrante</b></p>
+
+		<p><img src="img/2019/anthony.jpg" style="width: 200px; height: 200px"> Anthony J. Ferrante is a Senior Managing Director and the Global Head of Cybersecurity at FTI Consulting. Mr. Ferrante is an expert in data privacy and cybersecurity resilience, prevention, response, remediation, and recovery services. Mr. Ferrante has more than 20 years of top‐level cybersecurity experience, providing incident response and preparedness planning to more than 1,000 private sector and government organizations, including more than 175 Fortune 500 companies and 70 Fortune 100 companies. Mr. Ferrante maintains first‐hand operational knowledge of more than 60 criminal and national security cyber threat sets, and extensive practical expertise researching, designing, developing and hacking complex technical applications and hardware systems. Mr. Ferrante advises clients on data privacy compliance and risk management, specifically addressing issues related to data transfer, employee access, vendor management, marketing, and cloud computing. Prior to joining FTI Consulting, Mr. Ferrante served as Director for Cyber Incident Response at the U.S. National Security Council at the White House where he coordinated U.S. response to unfolding domestic and international cybersecurity crises and issues. Building on his extensive cybersecurity and incident response experience, he led the development and implementation of Presidential Policy Directive 41 –United States Cyber Incident Coordination, the federal government’s national policy guiding cyber incident response efforts. Before joining the National Security Council, Mr. Ferrante was Chief of Staff of the FBI’s Cyber Division. He joined the FBI as a special agent in 2005, assigned to the FBI’s New York Field Office. In 2006, Mr. Ferrante was selected as a member of the FBI’s Cyber Action Team, a fly‐team of experts who deploy globally to respond to the most critical cyber incidents on behalf of the U.S. Government. Mr. Ferrante was an Adjunct Professor of Computer Science at Fordham University’s Graduate School of Arts and Sciences, where he served as the founder and co‐director of the Master’s of Science in Cybersecurity program in the Graduate School of Arts and Sciences. During his time at Fordham University, he served as the co‐director of the undergraduate and graduate cybersecurity research programs.</p>
+		<p><h5>3:00 PM - 4:00 PM </h5><b>Coffee Talk With Dr. Suzanne Schwartz</b> <br />
+		  <table style="width:100%">
+  <tr>
+    <td><img src="img/2019/suzanne.png" style="width: 200px; height: 200px"></td>
+    <td> Dr.Suzanne Schwartz’s programmatic efforts in medical device cybersecurity extend beyond incident response to include raising awareness, educating, outreach, partnering and coalition-building within the Healthcare and Public Health Sector (HPH) as well as fostering collaborations across other government agencies and the private sector. Suzanne has been recognized for Excellence in Innovation at FDA’s Women’s History Month on March 1st 2018 for her work in Medical Device Cybersecurity. Suzanne chairs CDRH’s Cybersecurity Working Group, tasked with formulating FDA’s medical device cybersecurity policy. She also co-chairs the Government Coordinating Council (GCC) for the HPH Critical Infrastructure Sector, focusing on the sector’s healthcare cybersecurity initiatives.
+</td>
+  </tr>
+</table>
+		  
+		<p><h5>4:00 PM - 5:00 PM </h5><b>Coffee Talk With Austin King</b> <br />
+		  
+		
+	      </div>
+	    </div>
+	  </div>
+	</section>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/agency.min.js"></script>
+
+  </body>
+
+</div>
+</html>
