@@ -4,7 +4,6 @@ The DEFCON Ethics Village, is a two day ethics conference focused on the fosteri
 
 We want to learn what ethical situations arise for security professionals. We want to learn how security professionals handle these situations. We want to know about times you stood up to your boss because of your ethical beliefs to when you did something completely unethical and possibly broke the law.
 
-The Ethics Village is sponsorsed by DC 217 an interest group for computer security topics.
 
 ## Preview
 
